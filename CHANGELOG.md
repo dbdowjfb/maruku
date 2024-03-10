@@ -400,4 +400,4 @@ Immediate TODO-list:
 
 
 
-test 
+test dfa fad adfa 
